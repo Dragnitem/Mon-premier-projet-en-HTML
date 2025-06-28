@@ -1,0 +1,53 @@
+Les fondamentaux du web : 
+- HTML
+- CSS 
+
+Bâtir des sites web  simples et efficaces
+Comprendre le fonctionnement du web
+Fondamentaux indispensable en entreprise.
+
+Un site c'est un ensemble de page. 
+
+Fondamentaux du html : 
+Langage de balisage
+Structure et contenu d'une page
+
+Les balise de html:
+<h1>, <p>, <img>, <a>, <ul>, <li>, <table>
+les attributs : href; src ; alt; id; class 
+
+Le CSS:
+Permet de gérer la mise en forme et le style d'une page web
+
+in line css:
+3 types d'inclusion : Inline, interne, externe
+
+
+element -- sélectionne tous les éléments de ce type
+.class  -- sélectionne les éléments avec cette classe 
+#id -- sélectionne l'élément avec cet identifiant
+
+Le alt de 
+
+Avec  le css on peut faire : flexbox, grid, animations
+
+
+W3Schools
+W3Schools
+MDN Web docs
+
+
+Présentation GIT : 
+
+Git: Dossier de travail en local : C'est note sac à dos 
+Si le travail est en ligne on peut travailler ensemble 
+
+On peut sauvegarder et avoir les modifi
+
+Dépôt (repository): dossier géré par GIT
+Commit : enregistrement d'un état du projet 
+Branche (branch): version parallèle du projet
+Merge : Fusion des braches 
+git add . ajoute tout ce qui se trouve dans le répertoire 
+
+control c ou control shift c / control v ou control shift v
